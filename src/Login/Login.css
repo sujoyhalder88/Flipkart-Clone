@@ -1,0 +1,33 @@
+.login {
+    width: 250px;
+}
+h3 {
+    margin-right: 15px;
+    color: #2874f0;
+}
+
+.login__in {
+    display: flex;
+    align-items: center;
+    padding: 0px 7px;
+}
+.login__in > .MuiSvgIcon-root {
+    margin-right: 25px;
+    color: #2874f0;
+}
+.login__in > img {
+    margin-right: 25px;
+}
+.login > hr {
+    margin-left: -10px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    width: 108.5%;
+    height: 0.5px;
+    background-color: rgb(233, 233, 233);
+    border: none;
+}
+.login__in :hover {
+    background-color: rgb(245, 243, 243);
+    cursor: pointer;
+}
